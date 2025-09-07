@@ -1,0 +1,2 @@
+sqlparse>=0.4.3
+chardet>=5.1.0
